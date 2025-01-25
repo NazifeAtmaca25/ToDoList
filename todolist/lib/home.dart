@@ -118,7 +118,7 @@ class _HomeState extends State<Home> {
                 child: TextField(
                   controller: _controller,
                   decoration:
-                      InputDecoration(labelText: "Yapıcak işi giriniz..."),
+                      InputDecoration(labelText: "Yeni görev ekleyin..."),
                 ),
               )),
               Container(
